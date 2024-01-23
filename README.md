@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### 🦾Skills
 #### Platforms & Languages
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=black"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> 
-<br><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/WinAPI-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> 
+<br><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/WinAPI-0078D4?style=flat-square&logo=windows&logoColor=white"/>
 #### Now Interested in
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/DirectX-7FBA00?style=for-the-badge&logoColor=white"/>
 #### Tools
