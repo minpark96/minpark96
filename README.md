@@ -1,7 +1,7 @@
 ### Hi there 👋
 I hope to become a game developer with deep love and passion for games.🎮
-In particular, I am interested in the MMORPG genre.
-Currently, I am taking a game development curriculum at Inha University.
+<br>In particular, I am interested in the MMORPG genre.
+<br>Currently, I am taking a game development curriculum at Inha University.
 ### 🦾Skills
 #### Platforms & Languages
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> 
