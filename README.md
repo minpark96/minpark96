@@ -1,5 +1,5 @@
 ### Hi there 👋
-I hope to become a game developer with deep love and passion for games.🎮
+I hope to become a **game developer** with deep love and passion for games.🎮
 <br>In particular, I am interested in the MMORPG genre.
 <br>Currently, I am taking a game development curriculum at Inha University.
 ### 🦾Skills
